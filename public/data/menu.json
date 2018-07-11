@@ -1,0 +1,9 @@
+[{
+	"icon": "fa-home",
+	"name": "智慧水务",
+	"where": "#water"
+},{
+	"icon": "fa-star",
+	"name": "智慧农业",
+	"where": "#nonye"
+}]
